@@ -12,7 +12,7 @@ Processamento Digital de Imagens - BCC / UNEMAT
 
 Para visualizar e executar os exercícios de forma interativa, utilize o Google Colab clicando no botão abaixo:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itimt/PI1/avaliacao1/blob/main/Atividade1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itimt/PI1/blob/main/avaliacao1/Atividade1.ipynb)
 
 ### 🛠️ Configurações Necessárias
 O código foi desenvolvido para rodar nativamente no Google Colab. As bibliotecas necessárias são instaladas ou importadas automaticamente no início do notebook:
