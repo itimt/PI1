@@ -13,3 +13,6 @@ Versão	25H2
 Instalado em	‎25/‎09/‎2025
 Compilação do SO	26200.8037
 Experiência	Pacote de Experiência de Recursos do Windows 1000.26100.300.0
+
+
+![Teste Nativo](evidencia_janela.png).
