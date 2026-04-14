@@ -1,6 +1,6 @@
 ## Ambiente de Desenvolvimento
 
-Nome do dispositivo	PC02
+Nome do dispositivo	PC02//
 Processador	AMD Ryzen 3 PRO 3200G with Radeon Vega Graphics (3.60 GHz)
 RAM instalada	8,00 GB (utilizável: 6,91 GB)
 ID do dispositivo	884BD5DE-C6FC-448E-803A-B7A2690E0D5A
